@@ -42,7 +42,7 @@
     </footer>
 </body>
 </html>
-git clone [repository URL]
+
 
 
 
