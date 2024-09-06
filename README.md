@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>John Doe</h1>
+        <h1>Maki Hero Pantas</h1>
         <nav>
             <ul>
                 <li><a href="index.html">Home</a></li>
